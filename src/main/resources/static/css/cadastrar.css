@@ -1,0 +1,84 @@
+body {
+    background-color: #84b6f4;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    margin: 0px;
+    color: black;
+}
+
+.navbar{
+    background-color: #6a9eda;
+}
+.navbar a {
+    color: black;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+#funcionario {
+    width: 200px;
+}
+
+.linkBotao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.linkBotao a {
+    padding: 10px 20px;
+    color: black;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-left: 10px;
+    width: 100vh;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.azul {
+    background-color: #4373ab;
+}
+
+.vermelho {
+    background-color: rgb(182, 25, 25);
+}
+
+.btn {
+    color: black;
+    width: 396px;
+    margin: 10px;
+}
+
+#produto {
+    width: 250px;
+}
+
+.btn {
+    color: black;
+    width: 397px;
+    margin: 10px;
+}
+
+.linkBotao a {
+    padding: 10px 20px;
+    color: black;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-left: 10px;
+    width: 100vh;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.form-group input{
+    width: 400px;
+}
